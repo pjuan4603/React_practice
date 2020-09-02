@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+html {
+  height: 100%;
+}
+body {
+  background: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+}
